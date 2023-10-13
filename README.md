@@ -24,7 +24,7 @@ Para localizar tarefas específicas em uma lista extensa, os usuários podem uti
 
 Como iniciar o projeto
 
-```
+```bash
 git clone <https://github.com/LeticiaANunes/ListaDeTarefas.git>
 ```
 
