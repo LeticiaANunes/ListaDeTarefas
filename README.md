@@ -1,6 +1,7 @@
 # Gerenciador de Tarefas
 
 Visão Geral
+
 O Gerenciador de Tarefas é uma aplicação web voltada para o gerenciamento eficiente de tarefas. Desenvolvido para atender às necessidades de organização e produtividade dos usuários, o aplicativo oferece uma variedade de recursos que permitem a adição, edição e marcação de tarefas como concluídas. Além disso, o sistema inclui funcionalidades avançadas de filtragem e busca, tornando a localização de tarefas específicas uma tarefa simples e rápida.
 
 Funcionalidades Principais
